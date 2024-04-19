@@ -28,6 +28,6 @@ Additionally, there will be a mini challenge that you will have to do on the spo
   - We hope you manage to do this all, however, if you can't don't panic! All we want is to check/test how you deal with adversities. If you do a simpler page, you should still present it.
   - Regarding the mini challenge, it will NOT be hard. If you manage to do the rest of the challenge you shouldn't worry.
 - Doubts:
-  - In case of doubts or any questions, you may contact me through Discord->dark66jedi or through Whatsapp->+351 918713702
+  - In case of doubts or any questions, you may contact me through Discord->dark66jedi.
 
 All work beyond what was asked previously will be appreciated and help towards your application.
